@@ -1,4 +1,4 @@
-## Produce the third required plot for Exploratory Data Anaylsis, Project 1
+## Produce the fourth required plot for Exploratory Data Anaylsis, Project 1
 
 ## Load and clean the data 
 ## Subset to use only dates 2007-02-01 and 2007-02-02.
